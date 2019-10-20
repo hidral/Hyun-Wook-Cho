@@ -17,7 +17,7 @@ You'll Never Walk Alone
     * Microeconometric Analysis : Average Treament Effect
     
 - Practice for Study
-    * [Replication](<Replication/readme.md>)
+    * [Replication](<https://github.com/hidral/Hyun-Wook-Cho/blob/master/Replication/readme.md>)
     * [Introductory Econometrics by Wooldridge](<>)
     * [Mostly Harmless Econometrics](<>)
 
