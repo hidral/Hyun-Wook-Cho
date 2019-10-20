@@ -6,7 +6,7 @@ This is a direction to explore my website.
 
 ## Quick Website Map
 
-- [Curriculum Vitae](<https://hidral.github.io/Personal-Webpage/Curriculum-Vitae/>)
+- [Curriculum Vitae](<https://hidral.github.io/Hyun-Wook-Cho/Curriculum-Vitae/>)
 
 - Research Interest
     * Education in South Korea
