@@ -13,7 +13,7 @@
 
 ## Education
 - MS in Business Management, Large-Scale Data Analysis Track \
-College of Staten Islane, City University of New York \
+College of Staten Island, City University of New York \
     expect to complete the course in Summer 2020 
     
 - MA in Economics, Yonsei University, Republic of Korea          2017 
