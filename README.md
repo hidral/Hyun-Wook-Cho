@@ -18,7 +18,8 @@ College of Staten Island, City University of New York \
     
 - MA in Economics, Yonsei University, Republic of Korea          2017 
   * Qualifying Exam Pass : Jan 7, 2015
-  * Dissertation : An Analysis of Economic Fluctuation Considering the Labor Market - Search and Matching Friction Model -
+  * Dissertation
+  ** An Analysis of Economic Fluctuation Considering the Labor Market - Search and Matching Friction Model -
   
 - BA in Economics, Yonsei University, Republic of Korea          2011 
 - Wonju High School, Republic of Korea          2006 
