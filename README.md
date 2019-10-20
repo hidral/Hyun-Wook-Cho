@@ -22,5 +22,5 @@ You'll Never Walk Alone
 ### Practice for Study
 - [Replication](<https://hidral.github.io/Hyun-Wook-Cho/Replication/>)
 - [Introductory Econometrics by Wooldridge](<https://hidral.github.io/Hyun-Wook-Cho/Introductory Econometrics by Wooldridge/>)
-- [Mostly Harmless Econometrics](<https://hidral.github.io/Hyun-Wook-Cho/Mostly-Harmless-Econometrics/>)
+- [Mostly Harmless Econometrics](<https://hidral.github.io/Hyun-Wook-Cho/Mostly Harmless Econometrics/>)
 
