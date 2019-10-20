@@ -1,20 +1,20 @@
 # Curriculum-Vitae
 
 ## Personal Information
-- Full Name : Hyun-Wook Cho\
-- Nationality : Repulbic of Korea (South Korea)\
-- Date of Birth : 21 Apr 1987\
-- E-Mail : <hyunwook.cho[at]cix.csi.cuny.edu>(mailto:hyunwook.cho@cix.csi.cuny.edu)\
+- Full Name : Hyun-Wook Cho
+- Nationality : Repulbic of Korea (South Korea)
+- Date of Birth : 21 Apr 1987
+- E-Mail : (hyunwook.cho@cix.csi.cuny.edu)
 
 ## Objective
-- To seek a PhD student position in the field of Economics\
-- To be used to playing statistical packages (SAS, Stata, R, and Python)\
-- To study Economic Development with a deep interest\
+- To seek a PhD student position in the field of Economics
+- To be used to playing statistical packages (SAS, Stata, R, and Python)
+- To study Economic Development with a deep interest
 
 ## Education
-- MS in Business Management, Large-Scale Data Analysis Track\
-College of Staten Islane, City University of New York\
-    expect to complete the course in Summer 2020\
+- MS in Business Management, Large-Scale Data Analysis Track
+College of Staten Islane, City University of New York
+    expect to complete the course in Summer 2020
     
 - MA in Economics, Yonsei University, Republic of Korea          2017
   
