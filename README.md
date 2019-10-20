@@ -1,8 +1,9 @@
-## You'll Never Walk Alone
-
+## Greetings
 Thanks for visiting my website.
 
 This is a direction to explore my website.
+
+You'll Never Walk Alone
 
 ## Quick Website Map
 
