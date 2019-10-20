@@ -1,4 +1,11 @@
-# CURRICULUM VITAE
+# Hyun-Wook Cho
+
+Thanks for visiting my website.\
+
+This is a direction to explore my website.\
+
+- [Curriculum Vitae](<http://example.com/a space>)
+
 
 ## Personal Information
 - Full Name : Hyun-Wook Cho
