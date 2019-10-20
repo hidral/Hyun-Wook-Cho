@@ -1,4 +1,4 @@
-# Curriculum-Vitae
+# CURRICULUM VITAE
 
 ## Personal Information
 - Full Name : Hyun-Wook Cho
@@ -35,7 +35,7 @@ College of Staten Island, City University of New York \
   * Microsoft Office +++++
   
 - Statistical Software
-  * Stata. ++++
+  * Stata ++++
   * SAS ++++
   * R ++++
   * DYNARE, MATLAB ++++
