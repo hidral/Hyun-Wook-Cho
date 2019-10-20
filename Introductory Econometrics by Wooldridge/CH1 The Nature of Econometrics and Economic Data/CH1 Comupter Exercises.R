@@ -2,7 +2,6 @@
 ## Chapter 1. The Nature of Econometric Data
 ### The following solutions are presented by Hyun-Wook Cho, Teaching Assistant.
 #### I have solved the computer exercises using R.
-##### I am interested in any comments that will help me make improvements my solutions.
 
 # Preparation
 ## To begin with, we should take a step to install packages for Wooldridge computer exercises data sets.
