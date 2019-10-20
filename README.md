@@ -12,14 +12,14 @@
 - To study Economic Development with a deep interest
 
 ## Education
-- MS in Business Management, Large-Scale Data Analysis Track
-College of Staten Islane, City University of New York
-    expect to complete the course in Summer 2020
+- MS in Business Management, Large-Scale Data Analysis Track <\br>
+College of Staten Islane, City University of New York<\br>
+    expect to complete the course in Summer 2020<\br>
     
-- MA in Economics, Yonsei University, Republic of Korea          2017
+- MA in Economics, Yonsei University, Republic of Korea          2017 <\br>
   
-- BA in Economics, Yonsei University, Republic of Korea          2011
-- Wonju High School, Republic of Korea          2006
+- BA in Economics, Yonsei University, Republic of Korea          2011 <\br>
+- Wonju High School, Republic of Korea          2006 <\br>
 
 ## Professional Experience
 - Teaching Assistant          SPRING, 2012 ~ FALL, 2013
