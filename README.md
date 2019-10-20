@@ -4,7 +4,7 @@
 - Full Name : Hyun-Wook Cho
 - Nationality : Repulbic of Korea (South Korea)
 - Date of Birth : 21 Apr 1987
-- E-Mail : (hyunwook.cho@cix.csi.cuny.edu)
+- E-Mail : hyunwook.cho@cix.csi.cuny.edu
 
 ## Objective
 - To seek a PhD student position in the field of Economics
