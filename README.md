@@ -10,7 +10,7 @@ You'll Never Walk Alone
 ### Curriculum Vitae
 
 - [Curriculum Vitae](<https://hidral.github.io/Hyun-Wook-Cho/Curriculum-Vitae/>)
-- [Downloadable CV](<https://github.com/hidral/Hyun-Wook-Cho/blob/master/Curriculum-Vitae/CV(CHO).pdf>)
+- [Downloadable CV](<https://hidral.github.io/Hyun-Wook-Cho/Curriculum-Vitae//CV(CHO).pdf>)
 
 ### Research Interest
 
