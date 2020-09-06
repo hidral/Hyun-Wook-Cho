@@ -4,17 +4,21 @@
 - Full Name : Hyun-Wook Cho
 - Nationality : Repulbic of Korea (South Korea)
 - Date of Birth : 21 Apr 1987
-- E-Mail : hyunwook.cho@cix.csi.cuny.edu
+- E-Mail : hcho1@gradcenter.cuny.edu
 
 ## Objective
-- To seek a PhD student position in the field of Economics
-- To be used to playing statistical packages (SAS, Stata, R, and Python)
-- To study Economic Development with a deep interest
+- To pass Qualification Exams
+- To be used to playing statistical packages (MATLAB, SAS, Stata, R, and Python)
+- To be a multi-tool player in Economics by having broad knowledge
 
 ## Education
-- MS in Business Management, Large-Scale Data Analysis Track \
+
+- PhD in Economics, The Graduate Center, City University of New York
+  * Passing through a tunnel going by name of Coursework
+  
+  
+- MS in Business Management, Large-Scale Data Analysis Track    2020
 College of Staten Island, City University of New York \
-    expect to complete the course in Summer 2020 
     
 - MA in Economics, Yonsei University, Republic of Korea          2017 
   * Qualifying Exam Pass : Jan 7, 2015
